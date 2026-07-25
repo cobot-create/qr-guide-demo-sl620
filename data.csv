@@ -1,0 +1,22 @@
+category_ja,category_en,name_ja,name_en,price,desc_ja,desc_en,allergen_ja,allergen_en
+コーヒー・ドリンク,Coffee & Drinks,ブレンドコーヒー,House Blend Coffee,480,深煎りと浅煎りをブレンドした自家焙煎コーヒー,Our house-roasted blend of dark and light beans,なし,None
+コーヒー・ドリンク,Coffee & Drinks,カフェラテ,Caffe Latte,550,エスプレッソにミルクをたっぷりと,Espresso with plenty of steamed milk,乳,Milk
+コーヒー・ドリンク,Coffee & Drinks,抹茶ラテ,Matcha Latte,580,抹茶を使った和風ラテ,Japanese-style latte made with matcha,乳,Milk
+コーヒー・ドリンク,Coffee & Drinks,アイスティー,Iced Tea,450,すっきりとした水出し紅茶,Refreshing cold-brew black tea,なし,None
+コーヒー・ドリンク,Coffee & Drinks,オレンジジュース,Orange Juice,420,果汁100%の搾りたて,Freshly squeezed 100% orange juice,なし,None
+コーヒー・ドリンク,Coffee & Drinks,ホットチョコレート,Hot Chocolate,520,カカオ豊かな濃厚ショコラドリンク,Rich cacao chocolate drink,乳,Milk
+軽食・トースト,Light Meals & Toast,バタートースト,Butter Toast,380,厚切りパンにバターを効かせて,Thick-cut bread with butter,小麦・乳,"Wheat, Milk"
+軽食・トースト,Light Meals & Toast,ハムチーズトースト,Ham & Cheese Toast,580,とろけるチーズとハムをサンド,Melted cheese and ham on toast,小麦・乳,"Wheat, Milk"
+軽食・トースト,Light Meals & Toast,たまごサンド,Egg Sandwich,620,ふわふわ卵のたっぷりサンド,Fluffy egg salad sandwich,小麦・卵・乳,"Wheat, Egg, Milk"
+軽食・トースト,Light Meals & Toast,ミックスサンド,Mixed Sandwich,680,野菜とハムのバランスサンド,Assorted vegetable and ham sandwich,小麦・卵・乳,"Wheat, Egg, Milk"
+軽食・トースト,Light Meals & Toast,本日のスープ,,450,季節野菜のポタージュ,,乳,Milk
+パスタ・ランチ,Pasta & Lunch,ナポリタン,Napolitan Pasta,880,昔ながらのケチャップ味パスタ,Classic ketchup-based pasta,小麦,Wheat
+パスタ・ランチ,Pasta & Lunch,カルボナーラ,Carbonara,950,卵と生クリームの濃厚ソース,Rich egg and cream sauce,小麦・卵・乳,"Wheat, Egg, Milk"
+パスタ・ランチ,Pasta & Lunch,きのこのクリームパスタ,Mushroom Cream Pasta,920,数種のきのこと生クリーム,Assorted mushrooms in cream sauce,小麦・乳,"Wheat, Milk"
+パスタ・ランチ,Pasta & Lunch,明太子パスタ,Spicy Cod Roe Pasta,900,ピリ辛明太子とバターの和風パスタ,Spicy cod roe with butter Japanese-style,小麦,Wheat
+パスタ・ランチ,Pasta & Lunch,本日のランチプレート,Today's Lunch Plate,980,日替わりメイン+サラダ+スープ,Daily main dish with salad and soup,応相談,Ask staff
+デザート,Desserts,チーズケーキ,Cheesecake,580,濃厚な自家製ベイクドチーズケーキ,Rich homemade baked cheesecake,小麦・卵・乳,"Wheat, Egg, Milk"
+デザート,Desserts,ショートケーキ,Shortcake,620,季節のフルーツを添えて,Topped with seasonal fruit,小麦・卵・乳,"Wheat, Egg, Milk"
+デザート,Desserts,アイスクリーム,Ice Cream,480,バニラ・チョコ・抹茶から選べる,"Choose from vanilla, chocolate, or matcha",乳,Milk
+デザート,Desserts,あんみつ,,550,寒天と餡、フルーツの和風デザート,,なし,None
+デザート,Desserts,焼きプリン,Baked Custard Pudding,450,濃厚カラメルソースのなめらかプリン,Smooth custard pudding with rich caramel sauce,卵・乳,"Egg, Milk"

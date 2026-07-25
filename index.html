@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>喫茶りんどう - 案内ページ（デモ）</title>
+<meta name="robots" content="noindex">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div class="demo-banner">
+  これは「QR案内ページ」商品のサンプルデモです。実在の店舗ではありません。<br>
+  <span class="demo-banner-en">This is a sample demo of the "QR Guide Page" product. Not a real business.</span>
+</div>
+
+<header class="shop-header">
+  <h1 id="shopName">喫茶りんどう</h1>
+  <p id="shopTagline">MENU / メニュー</p>
+  <button id="langToggle" class="lang-toggle" aria-label="言語切替 / Switch language">EN</button>
+</header>
+
+<nav id="categoryNav" class="category-nav" aria-label="カテゴリ"></nav>
+
+<main id="menu" class="menu">
+  <p class="loading" id="loadingMsg">読み込み中... / Loading...</p>
+</main>
+
+<footer class="site-footer">
+  <p id="updateNote">価格・内容は予告なく変更する場合があります。/ Prices and contents are subject to change without notice.</p>
+</footer>
+
+<script src="app.js"></script>
+</body>
+</html>
